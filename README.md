@@ -2,6 +2,12 @@
 
 This is a web application built with React, shadcn/ui, and Vite that allows users to input a URL and generate summaries of articles using the RapidAPI Article Extractor and Summarizer.
 
+
+
+https://github.com/r-sarathi/intelli-sum/assets/141658108/5942f9db-d28a-43cf-8f00-6aa414fe9b5c
+
+
+
 ## Features
 -   Input field for entering article URLs
 -   Integration with RapidAPI Article Extractor and Summarizer for content extraction and summarization
