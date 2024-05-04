@@ -48,5 +48,5 @@ npm run dev
 -   [Vite](https://vitejs.dev/guide/)
 -   [RapidAPI - Article Extractor and Summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/)
 -   [React Redux](https://redux.js.org/)
--  [Redux Toolkit | Redux Toolkit (redux-toolkit.js.org)](https://redux-toolkit.js.org/)
+-  [Redux Toolkit](https://redux-toolkit.js.org/)
 
